@@ -4,4 +4,4 @@ Alternate versions for Command Line Interface (CLIMenu.java) and Graphical User 
 
 The coursework brief is uploaded in the repository and so is the marker's feedback. I scored 97% for this assignment.
 
-Admittedly, I shouldn't really have used the 'command line application' template in IntelliJ IDEA when setting up the project, because that automatically packages all of the classes/interfaces/enums etc into a package named 'com.company', which presumably meant the marker had to do a little refactoring of my code in order to compile and run it.
+Admittedly, I shouldn't really have used the 'command line application' template in IntelliJ IDEA when setting up the project, because that automatically packages all of the classes/interfaces/enums etc into a package named 'com.company', which presumably meant the marker had to change all classes etc to the default package in order to compile and run the application.
